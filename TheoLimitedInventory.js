@@ -629,42 +629,6 @@ Window_ItemList.prototype.isEnabled = function(item) {
   	if (item){return true}else{return false};
 };
 //===================================================================
-// ** Default Script - Window_ShopNumber
-//===================================================================
-Theo.LINV.shopNumInit = Window_ShopNumber.prototype.initialize;
-Window_ShopNumber.prototype.initialize = function(){
-	Window_ShopNumber.prototype.initialize.call(this, x, y, height);
-	this._mode = 'buy';
-}
-
-Theo.LINV.shopNumRefresh = Window_ShopNumber.prototype.refresh;
-Window_ShopNumber.prototype.refresh = function(){
-	Theo.LINV.shopNumRefresh.call(this);
-	this.drawItemSize();
-}
-
-Window_ShopNumber.prototype.drawItemSize = function(){
-	let num = this._number + this._item.invSize;
-	let total = $gameParty.totalInvSize() + (this._mode === 'buy' ? num : num * -1);
-	let txt = String(total)+"/"+String($gameParty.invMax());
-	let ypos = this.itemY() + lineHeight() * 4;
-	this.changeTextColor(this.systemColor());
-	this.drawText(Theo.LINV.Params['invSlotVocab'],6,ypos,contents.width-12);
-	this.changeTextColor(this.normalColor());
-	this.drawText(txt,6,ypos,contents.width-12,'right');
-}
-//===================================================================
-// ** Default Script - Window_ShopStatus
-//===================================================================
-if (Theo.LINV.Params['displayItem'] === 'true'){
-	Theo.LINV.shopStatusPossession = Window_ShopStatus.prototype.drawPossession;
-	Window_ShopStatus.prototype.drawPossession = function(x, y){
-		Theo.LINV.shopStatusPossession.call(this, x, y);
-		y += lineHeight();
-		this.drawItemSize(this._item, x, y, contents.width - (x*2));
-	}
-}
-//===================================================================
 // ** Default Script - Scene_Menu
 //===================================================================
 Theo.LINV.sceneMenuCreate = Scene_Menu.prototype.create;
@@ -791,19 +755,4 @@ Scene_Item.prototype.onUseCancel = function(){
 	this._itemWindow.activate()
 	this._useCommand.close()
 	this._useCommand.deactivate()
-}
-
-//===================================================================
-// ** Default Script - Scene_Shop
-//===================================================================
-Theo.LINV.shopBuyOk = Scene_Shop.prototype.onBuyOk;
-Scene_Shop.prototype.onBuyOk = function() {
-	this._numberWindow._mode = 'buy';
-	Theo.LINV.shopBuyOk.call(this);
-};
-
-Theo.LINV.shopSellOk = Scene_Shop.prototype.onSellOk;
-Scene_Shop.prototype.onSellOk = function() {
-	this._numberWindow._mode = 'sell';
-	Theo.LINV.shopSellOk.call(this);
 };
