@@ -791,19 +791,4 @@ Scene_Item.prototype.onUseCancel = function(){
 	this._itemWindow.activate()
 	this._useCommand.close()
 	this._useCommand.deactivate()
-}
-
-//===================================================================
-// ** Default Script - Scene_Shop
-//===================================================================
-Theo.LINV.shopBuyOk = Scene_Shop.prototype.onBuyOk;
-Scene_Shop.prototype.onBuyOk = function() {
-	this._numberWindow._mode = 'buy';
-	Theo.LINV.shopBuyOk.call(this);
-};
-
-Theo.LINV.shopSellOk = Scene_Shop.prototype.onSellOk;
-Scene_Shop.prototype.onSellOk = function() {
-	this._numberWindow._mode = 'sell';
-	Theo.LINV.shopSellOk.call(this);
 };
