@@ -4,11 +4,11 @@
 
 Step 1: Download the newest version of the game!
 
-Step 2: Open the file and then drag it to <b>The Crystals folder!</b>
+Step 2: Open the file and then drag it to <b>The Crystals folder!</b> 📁
 
 Step 3: Click <b>'Replace'</b> so it can update the other files!
 
-Step 4: Wait until it's finished loading...
+Step 4: Wait until it's finished loading... 🔃
 
 Step 5: When it's finished loading, you have successfully updated the game! 😊
 
