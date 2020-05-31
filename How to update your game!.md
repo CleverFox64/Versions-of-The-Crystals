@@ -6,7 +6,7 @@ Step 1: Download the newest version of the game
 
 Step 2: Open the file and then drag it to The Crystals folder
 
-Step 3: Click Replace so it can update the other files
+Step 3: Click 'Replace' so it can update the other files
 
 Step 4: Wait until it's finished loading
 
