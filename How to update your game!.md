@@ -12,4 +12,4 @@ Step 4: Wait until it's finished loading...
 
 Step 5: When it's finished loading, you have successfully updated the game!
 
-<b>How to update your game video, tutorial coming soon...</b>
+<b>How to update your game, video tutorial coming soon...</b>
