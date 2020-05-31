@@ -1,4 +1,4 @@
-<b>!!Please Note!!</b>
+#<b>!!Please Note!!</b>
 
 <b>That you can't have the game open when updating the files or you might run into problems!</b>
 
