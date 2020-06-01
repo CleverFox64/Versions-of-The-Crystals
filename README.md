@@ -18,3 +18,4 @@ Step 2: Click the <b>blue text</b> with the version of The Crystals
 Step 3: In the <b>Top Right corner</b>, there will be a symbol that looks like this <b>⬇</b> but with line under it. Click that, and, then my game should start downloading! 😊
 
 <b><i>Note: It might take a few minutes to download!</i></b>
+# How to update your game!
