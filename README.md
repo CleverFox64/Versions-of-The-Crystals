@@ -1,4 +1,4 @@
-# Versions of The Crystals
+# Info about The Crystals
 <b>This is where you can download different versions of my game!</b> 😊
 
 <b><i>The title is still a working progress!</i></b>
