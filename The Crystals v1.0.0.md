@@ -1,4 +1,5 @@
-<b>[The Crystals v1.0.0](https://drive.google.com/open?id=10zqK3V3DpeCgyQ3bWezFRtpoIYgwYxTf)</b>
+# <b>[The Crystals v1.0.0](https://drive.google.com/open?id=10zqK3V3DpeCgyQ3bWezFRtpoIYgwYxTf)</b>
+
 •	Added Quest Journal
 
 •	Added Boss HP Bar & Picture Icon
