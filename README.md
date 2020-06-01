@@ -11,7 +11,7 @@ Step 1: To download my game just <b>click any versions of The Crystals</b>
 
 <b><i>Example: The Crystals v1.0.0.md</i></b>
 
-<b>Step 2: Click the blue text with the version of The Crystals</b>
+Step 2: Click the <b>blue text</b> with the version of The Crystals
 
 <b><i>Example: [The Crystals v1.0.0](https://drive.google.com/open?id=10zqK3V3DpeCgyQ3bWezFRtpoIYgwYxTf)</i></b>
 
