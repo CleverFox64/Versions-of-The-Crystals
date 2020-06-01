@@ -5,6 +5,8 @@
 
 <b><i>Newest Version: [The Crystals v1.0.0](https://drive.google.com/open?id=10zqK3V3DpeCgyQ3bWezFRtpoIYgwYxTf)</i></b>
 
+<b><i>[The Crystals Folder Icon](https://drive.google.com/file/d/1344beXQlSYWu10wnpPZY40eDgouIpcF6/view?usp=sharing)</i></b>
+
 # How to download my game!
 
 Step 1: To download my game just <b>click any versions of The Crystals</b>
