@@ -11,4 +11,4 @@
 
 <b>Step 2: Click the blue text with the version of The Crystals</b>
 
-<b><i> d</i></b>
+<b><i>Example: [The Crystals v1.0.0](https://drive.google.com/open?id=10zqK3V3DpeCgyQ3bWezFRtpoIYgwYxTf)</i></b>
