@@ -18,6 +18,6 @@
 
 •	You can only carry limited amount of item
 
-•	Stats are HEAVILY CHANGE!!!
+•	Stats are <b><i>HEAVILY CHANGE!!!</b></i>
 
-•	And more…
+•	<b><i>And more…</b></i>
