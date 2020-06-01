@@ -3,6 +3,8 @@
 
 <b><i>The title is still a working progress!</i></b>
 
+# How to download my game!
+
 <b><i>Newest Version: The Crystals v1.0.0</i></b>
 
 Step 1: To download my game just <b>click any versions of The Crystals</b>
