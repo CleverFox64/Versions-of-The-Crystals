@@ -5,10 +5,12 @@
 
 <b><i>Newest Version: The Crystals v1.0.0</i></b>
 
-<b>Step 1: To download my game just click any versions of The Crystals</b>
+Step 1: To download my game just <b>click any versions of The Crystals</b>
 
 <b><i>Example: The Crystals v1.0.0.md</i></b>
 
 <b>Step 2: Click the blue text with the version of The Crystals</b>
 
 <b><i>Example: [The Crystals v1.0.0](https://drive.google.com/open?id=10zqK3V3DpeCgyQ3bWezFRtpoIYgwYxTf)</i></b>
+
+Step 3: In the <b>Top Right corner</b>, there will be a symbol that looks like this <b>⬇</b> but with line under it. Click that, and, then my game should start downing! 😊
