@@ -3,6 +3,8 @@
 
 Step 1: Download the newest version of the game!
 
+<b><i>Newest Version: [The Crystals v1.0.0](https://drive.google.com/open?id=10zqK3V3DpeCgyQ3bWezFRtpoIYgwYxTf)</i></b>
+
 Step 2: Open the file and then drag it to <b>The Crystals folder!</b> 📁
 
 Step 3: Click <b>'Replace'</b> so it can update the other files!
