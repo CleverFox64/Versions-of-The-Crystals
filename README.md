@@ -16,3 +16,5 @@ Step 2: Click the <b>blue text</b> with the version of The Crystals
 <b><i>Example: [The Crystals v1.0.0](https://drive.google.com/open?id=10zqK3V3DpeCgyQ3bWezFRtpoIYgwYxTf)</i></b>
 
 Step 3: In the <b>Top Right corner</b>, there will be a symbol that looks like this <b>⬇</b> but with line under it. Click that, and, then my game should start downloading! 😊
+
+<b><i>Note: It might take a few minutes to download!</i></b>
