@@ -1,4 +1,4 @@
-# <b>[The Crystals v1.0.1](https://drive.google.com/file/d/1lBI0FggdUBuPbrLbixddtpjbBeyG-aC6/view?usp=sharing)
+# <b>[The Crystals v1.0.1](https://drive.google.com/file/d/1lBI0FggdUBuPbrLbixddtpjbBeyG-aC6/view?usp=sharing)</b>
 
 <b><i>!!Please note if you want shadows to work you'll have to play the game again. Like a new game!!</i></b>
   
