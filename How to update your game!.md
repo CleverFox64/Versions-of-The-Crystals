@@ -3,7 +3,7 @@
 
 Step 1: Download the newest version of the game!
 
-<b><i>Newest Version: [The Crystals v1.0.0](https://drive.google.com/open?id=10zqK3V3DpeCgyQ3bWezFRtpoIYgwYxTf)</i></b>
+<b><i>Newest Version: [The Crystals v1.0.1](https://drive.google.com/file/d/1lBI0FggdUBuPbrLbixddtpjbBeyG-aC6/view?usp=sharing)</i></b>
 
 Step 2: Wait until it's finished downloading... 🔃
 
