@@ -3,7 +3,7 @@
 
 <b><i>The title is still a working progress!</i></b>
 
-<b><i>Newest Version: [The Crystals v1.0.0](https://drive.google.com/open?id=10zqK3V3DpeCgyQ3bWezFRtpoIYgwYxTf)</i></b>
+<b><i>Newest Version: [The Crystals v1.0.1](https://drive.google.com/file/d/1lBI0FggdUBuPbrLbixddtpjbBeyG-aC6/view?usp=sharing)</i></b>
 
 <b><i>[The Crystals Folder Icon](https://drive.google.com/file/d/1ZYtgfdIXTB_7FZ8G_NjnH2hYJOtJvkDI/view?usp=sharing)</i></b>
 
