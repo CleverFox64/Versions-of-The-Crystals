@@ -6,4 +6,4 @@
   
 •	Added a Treasure Hud
 
-•	Added SOME shadows 
+•	Added <b>SOME</b> shadows 
