@@ -1,6 +1,6 @@
 # The Crystals v1.0.2
 
-• You can now play more of Chapter 1
+• You can now play more of Chapter 1 (Still not finished!)
 
 • Changed how EP work
 
