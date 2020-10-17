@@ -9,11 +9,10 @@
 
 # How to download my game!
 
-Step 1: To download my game just <b>click any versions of The Crystals</b>
+Step 1: To download the latest version of my game, go to the right side of this screen and click ["Releases" page.](https://github.com/CleverFox64/Versions-of-The-Crystals/releases)
 
-<b><i>Example: The Crystals v1.0.1.md</i></b>
+Step 2: Once you're on the "Releases" page scoll down on latset version and click "Assets"
 
-Step 2: Click the <b>blue text</b> with the version of The Crystals
 
 <b><i>Example: [The Crystals v1.0.1](https://drive.google.com/file/d/1Fr2Sb8pJ7cUN5RAWBXC8vjuUJ277KZjv/view?usp=sharing)</i></b>
 
