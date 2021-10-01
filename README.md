@@ -9,7 +9,7 @@
 
 # How to download my game!
 
-Step 1: To download the latest version of my game, go to the right side of this screen and click ["Releases" page.](https://github.com/CleverFox64/Versions-of-The-Crystals/releases)
+Step 1: To download the latest version of my game, go to the right side of this screen and click ["Releases" page.](https://github.com/CleverFox64/Versions-of-The-Crystals/tags)
 
 Step 2: Once you're on the "Releases" page scoll down on latset version and click "Assets"
 
