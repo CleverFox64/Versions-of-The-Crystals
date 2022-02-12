@@ -25,4 +25,4 @@ Step 3: In the <b>Top Right corner</b>, there will be a symbol that looks like t
 Prologue of "The Crystals."](https://forms.office.com/r/Akh1XvaqJ7)</i></b>
 
 # Report Bugs!
-<b><i>[Report Bugs for The Crystals Folder](https://forms.office.com/r/EiZ0dy7p8V)</i></b>
+<b><i>[Report Bugs for The Crystals (My Game!😊](https://forms.office.com/r/EiZ0dy7p8V)</i></b>
