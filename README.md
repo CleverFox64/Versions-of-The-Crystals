@@ -3,7 +3,7 @@
 
 <b><i>The title is still a working progress!</i></b>
 
-<b><i>Newest Version: [The Crystals v0.0.4](https://github.com/CleverFox64/Versions-of-The-Crystals/releases/tag/v0.0.4)</i></b>
+<b><i>Newest Version: [The Crystals v0.0.5](https://github.com/CleverFox64/Versions-of-The-Crystals/releases/tag/v0.0.5)</i></b>
 
 <b><i>[The Crystals Folder Icon](https://drive.google.com/file/d/1ZYtgfdIXTB_7FZ8G_NjnH2hYJOtJvkDI/view?usp=sharing)</i></b>
 
@@ -14,7 +14,7 @@ Step 1: To download the latest version of my game, go to the right side of this 
 Step 2: Once you're on the "Releases" page scoll down on latset version and click "Assets"
 
 
-<b><i>Example: [The Crystals v0.0.4](https://github.com/CleverFox64/Versions-of-The-Crystals/releases/tag/v0.0.4)</i></b>
+<b><i>Example: [The Crystals v0.0.5](https://github.com/CleverFox64/Versions-of-The-Crystals/releases/tag/v0.0.5)</i></b>
 
 Step 3: In the <b>Top Right corner</b>, there will be a symbol that looks like this <b>⬇</b> but with line under it. Click that, and, then my game should start downloading! 😊
 
