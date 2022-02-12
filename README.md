@@ -19,3 +19,10 @@ Step 2: Once you're on the "Releases" page scoll down on latset version and clic
 Step 3: In the <b>Top Right corner</b>, there will be a symbol that looks like this <b>⬇</b> but with line under it. Click that, and, then my game should start downloading! 😊
 
 <b><i>Note: It might take a few minutes to download!</i></b>
+
+# Prologue - Survey/Feedback Form!
+<b><i>[This is where you can fill out a survey or give me feedback about your Experience in the 
+Prologue of "The Crystals."](https://forms.office.com/r/Akh1XvaqJ7)</i></b>
+
+# Report Bugs!
+<b><i>[Report Bugs for The Crystals Folder](https://forms.office.com/r/EiZ0dy7p8V)</i></b>
